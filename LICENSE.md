@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Features
+## ✨ Features:
 
 - ⚡ **Blazing Fast Performance** – Optimized for speed and efficiency.
 - 🛡️ **Stealth & Reliability** – Built with advanced operational logic.
